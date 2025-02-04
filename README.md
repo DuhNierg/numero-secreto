@@ -12,3 +12,11 @@
 </div>
 
 
+## Instalação
+
+Instruções sobre como instalar e configurar o projeto.
+
+```bash
+git clone [https://github.com/seu-usuario/seu-projeto.git](https://github.com/DuhNierg/numero-secreto)
+cd seu-projeto
+npm install
